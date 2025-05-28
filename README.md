@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Parth 👋
 
-<!--
-**8parth/8parth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Architecting Resilient Systems Across Industries**
 
-Here are some ideas to get you started:
+I’m passionate about using technology to make a positive impact. From safeguarding the digital world to powering the future of energy, I build systems with a purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**My journey so far:**  
+⚡ Driving innovation in the energy sector  
+🛡️ Secured systems in cybersecurity  
+🔗 Streamlined the supply chain industry
+
+---
+
+**Skills I bring to the table:**  
+- Solution architecture & system design  
+- Database modeling & performance optimization  
+- Ruby on Rails • Python • ReactJS  
+- Docker • Cloud platforms
+
+---
+
+[🌍 parthrmodi.com](https://parthrmodi.com/)
+
+---
